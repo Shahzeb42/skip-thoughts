@@ -24,8 +24,8 @@ path_to_models = '/u/rkiros/public_html/models/'
 path_to_tables = '/u/rkiros/public_html/models/'
 #-----------------------------------------------------------------------------#
 
-path_to_umodel = path_to_models + 'uni_skip.npz'
-path_to_bmodel = path_to_models + 'bi_skip.npz'
+path_to_models = 'models/'
+path_to_tables = 'models/'
 
 
 def load_model():
